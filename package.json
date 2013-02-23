@@ -1,8 +1,8 @@
 {
-   "name":      "node-sns-oauth",
+   "name":      "yoyo-sn",
    "main":      "./index.js",
    "version":   "0.0.1",
-   "description": "tbc..",
+   "description": "get the social network update for yoyo",
    "author":    "geraldlrh@gmail.com",
    "repository": {
     "type":   "git",
