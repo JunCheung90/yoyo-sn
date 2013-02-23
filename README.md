@@ -1,4 +1,0 @@
-sns
-===
-
-node sns test
