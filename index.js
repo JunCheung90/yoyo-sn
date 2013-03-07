@@ -1,10 +1,12 @@
-var Weibo = require('./lib/weibo');
-var Renren = require('./lib/renren');
-var Tqq = require('./lib/tqq');
-var Douban = require('./lib/douban');
+/* 整体模块对外接口 */
 
-exports.Weibo = Weibo;
-exports.Renren = Renren;
-exports.Tqq = Tqq;
-exports.Douban = Douban;
+var weibo = require('./lib/weibo');
+// var renren = require('./lib/renren');
+// var tqq = require('./lib/tqq');
+// var douban = require('./lib/douban');
+
+exports.weibo = weibo;
+// exports.renren = renren;
+// exports.tqq = tqq;
+// exports.douban = douban;
 

@@ -1,12 +1,12 @@
 {
    "name":      "yoyo-sn",
    "main":      "./index.js",
-   "version":   "0.0.1",
+   "version":   "0.0.2",
    "description": "get the social network update for yoyo",
    "author":    "geraldlrh@gmail.com",
    "repository": {
     "type":   "git",
-    "url":    "git://github.com/geraldasd/node-sns-oauth.git"
+    "url":    "git://github.com/geraldasd/yoyo-sn.git"
   },
   "engines": {
     "node":   ">= 0.8.17"
